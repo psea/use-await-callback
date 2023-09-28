@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "React hook to await a callback",
   "main": "dist/useAwaitCallback.js",
-  "types": "dist/index.d.ts",
+  "types": "dist/useAwaitCallback.d.ts",
   "type": "module",
   "scripts": {
     "prepublish": "tsc"
