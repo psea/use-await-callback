@@ -1,0 +1,22 @@
+{
+  "name": "use-await-callback",
+  "version": "0.0.1",
+  "description": "React hook to await a callback",
+  "main": "dist/useAwaitCallback.js",
+  "types": "dist/index.d.ts",
+  "type": "module",
+  "scripts": {
+    "prepublish": "tsc"
+  },
+  "keywords": [
+    "react",
+    "react-hook",
+    "await",
+    "callback"
+  ],
+  "author": "Denis Lukichev",
+  "license": "MIT",
+  "devDependencies": {
+    "react": "^16.8.0"
+  }
+}
