@@ -1,3 +1,5 @@
+# ⚠️ Don't use it. It's a test stub package.
+
 Await callback React hook
 
 ```ts
